@@ -65,11 +65,8 @@
  <Reference Include="UnityEditor.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll</HintPath>
  </Reference>
- <Reference Include="UnityEngine.Analytics">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
- </Reference>
  <Reference Include="SharpCompress.3.5">
- <HintPath>C:/Users/Jerry/Desktop/Unity/Stair-Run-34ba959d0abbcff80a9a12c0aa9e803ae62f64a4/Stair-Run/Assets/Movinarc/PackageUninstaller/Editor/SharpCompress.3.5.dll</HintPath>
+ <HintPath>C:/Users/Jerry/Desktop/Unity/Stair-Run/Assets/Movinarc/PackageUninstaller/Editor/SharpCompress.3.5.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>

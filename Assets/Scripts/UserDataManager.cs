@@ -34,6 +34,6 @@ public class UserDataManager : MonoBehaviour {
 		AdCount++;
 		PlayerPrefs.SetInt ("Ad Count", AdCount);
 	}
-	
+
 
 }

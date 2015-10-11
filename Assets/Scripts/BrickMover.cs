@@ -9,6 +9,6 @@ public class BrickMover : MonoBehaviour {
 		brick = GetComponent<Rigidbody> ();
 	}
 	void Update(){
-		brick.velocity = new Vector3 (-speed, 0, 0);
+		brick.velocity = new Vector3 (0, speed, 0);
 	}
 }

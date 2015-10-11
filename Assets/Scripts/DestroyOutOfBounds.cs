@@ -29,7 +29,8 @@ public class DestroyOutOfBounds : MonoBehaviour {
 		if (other.tag == "Player") {
 			if(gameController != null){
 				//Debug.Log ("Game has ended");
-				gameController.GameOver();
+				gameController.setGameOverValue(true);
+				gameController.GameOver ();
 			}
 
 		}
